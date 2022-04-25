@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Bhavesh Kadchha
+### Senior Unity3D Developer
 
-You can use the [editor on GitHub](https://github.com/BhaveshKadchha/Digital-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+•	Total Experience : 4 Years 4 Months(Jan 2018 - Current)                                                            
+•	Bachelor Degree : B.E IT(2014-18)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Skills
+•	Unity3D Game Engine  
+•	C#   
+•	Multiplayer  
+•	Game Optimization  
+•	Basic Knowledge of Adobe XD and Blender  
+• Basic Knowledge of Shader Scripting and Shader Graph  
+•	AR and VR  
 
-### Markdown
+## Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Candy Cutter](https://play.google.com/store/apps/details?id=com.zhakaas.candycuttergame&hl=en_IN)
+Fruit cutting Hypercasual game for Android and iOS.
 
-```markdown
-Syntax highlighted code block
+### Steute AR
+AR application for showcasing Machinery by [Steute](https://www.steute.com/us/index.html). Here is a [video](https://www.youtube.com/watch?v=eBCBSG7Q4Hc) of Application.
 
-# Header 1
-## Header 2
-### Header 3
+### [StoryWars](https://storywars.net/) Writer's Room
+A Room Editor type of WebGL game inspired from The Sims. Player can buy stuff, place them in room, store them, Add friends, See room of friends, Share their room, Chat with friends, Buy pets who roam in the empty space in room and much more.
 
-- Bulleted
-- List
+### VR Mall & Liquor Store
+A VR based Mall and Liquor store simulation where people can buy things and then placed the order to buy things in real life.
 
-1. Numbered
-2. List
+### [WWE Racing Showdown](https://play.google.com/store/apps/details?id=com.jetplay.wwesuperstarsracing&hl=en_IN&gl=US)
+WWE theme based racing game.(Mostly worked on UI and game data management)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BhaveshKadchha/Digital-CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [BFK Warzone](https://bfkwarzone.com/)
+- Currently Working  
+- Game inspired from Mini Militia with added flavour of NFT and Cryto market. Mostly working on gameplay and creating new maps for the game.
