@@ -8,6 +8,7 @@
 ### Bachelor Degree 
 •	B.E IT(2014-18)
 
+
 ## Previos Organizations
 
 ### [Yudiz Solution](https://www.yudiz.com/)
@@ -21,6 +22,7 @@
 ### [Jash Entertainment](https://www.jashentertainment.com/)
 •	Started as Team lead in October 2023.
 •	Currently working here.
+
 
 ## Skills
 
@@ -54,6 +56,7 @@
 •	Windows Standalone
 •	WebGL
 
+
 ## Some Projects
 
 ### [Candy Cutter](https://play.google.com/store/apps/details?id=com.zhakaas.candycuttergame&hl=en_IN)
@@ -62,7 +65,7 @@ Fruit cutting Hypercasual game for Android and iOS.
 ### Steute AR
 AR application for showcasing Machinery by [Steute](https://www.steute.com/us/index.html). Here is a [video](https://www.youtube.com/watch?v=eBCBSG7Q4Hc) of Application.
 
-### [StoryWars](https://storywars.net/) Writer's Room
+### [StoryWars](https://storywars.net/) - Writer's Room
 A Room Editor type of WebGL game inspired from The Sims. Player can buy stuff, place them in room, store them, Add friends, See room of friends, Share their room, Chat with friends, Buy pets who roam in the empty space in room and much more.
 
 ### VR Mall & VR Liquor Store
