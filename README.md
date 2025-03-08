@@ -23,7 +23,7 @@
 •	Started as Team Lead in October 2023.
 •	Left the Organization in August 2024.
 
-### [EDIIIE] (https://www.ediiie.com/)
+### [EDIIIE](https://www.ediiie.com/)
 •	Started as Senior Developer in September 2024.
 •	Currently working here.
 
